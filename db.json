@@ -10,5 +10,48 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "left-content": [
+    {
+      "id": 1,
+      "title": "Chẳng cần đầu tư đồ đắt tiền, chỉ chút gel nha đam là đủ để bạn phục hồi cho tóc mềm mượt, bồng bềnh sau Tết",
+      "image": "//bizweb.dktcdn.net/thumb/compact/100/379/259/articles/03.jpg?v=1583402080087",
+      "time-post": "05/03/2020"
+    },
+    {
+      "id": 2,
+      "title": "Hạt chia rất tốt cho sức khỏe, nhất là ở 7 lợi ích trên cả tuyệt vời này",
+      "image": "//bizweb.dktcdn.net/thumb/compact/100/379/259/articles/02.jpg?v=1583401935410",
+      "time-post": "05/03/2020"
+    },
+    {
+      "id": 3,
+      "title": "Rau xanh tăng giá mạnh vì trời mưa, người dân nội thành lao đao",
+      "image": "//bizweb.dktcdn.net/thumb/compact/100/379/259/articles/01.jpg?v=1583401815087",
+      "time-post": "05/03/2020"
+    }
+  ],
+  "right-content": [
+    {
+      "id": 1,
+      "title": "Chẳng cần đầu tư đồ đắt tiền, chỉ chút gel nha đam là đủ để bạn phục hồi cho tóc mềm mượt, bồng bềnh sau Tết",
+      "image": "//bizweb.dktcdn.net/thumb/compact/100/379/259/articles/03.jpg?v=1583402080087",
+      "time-post": "05/03/2020",
+      "description": "Nếu bạn đang rầu rĩ vì mái tóc khô cằn, xơ xác sau hàng loạt trận uốn, nhuộm, tạo kiểu chơi Tết thì đây có thể là giải pháp ngon-bổ-rẻ nhất giúp bạn phục hồi lại mái tóc mây bồng bend. Nói đến nha đam (lô hội), các tín đồ là..."
+    },
+    {
+      "id": 2,
+      "title": "Hạt chia rất tốt cho sức khỏe, nhất là ở 7 lợi ích trên cả tuyệt vời này",
+      "image": "//bizweb.dktcdn.net/thumb/compact/100/379/259/articles/02.jpg?v=1583401935410",
+      "time-post": "05/03/2020",
+      "description": "Không chỉ là nguồn dinh dưỡng tuyệt vời mà hạt chia còn giúp cải thiện sức khỏe tốt hơn rất nhiều.Hạt chia được các chuyên gia x..."
+    },
+    {
+      "id": 3,
+      "title": "Rau xanh tăng giá mạnh vì trời mưa, người dân nội thành lao đao",
+      "image": "//bizweb.dktcdn.net/thumb/compact/100/379/259/articles/01.jpg?v=1583401815087",
+      "time-post": "05/03/2020",
+      "description": "Khoảng gần một tuần nay, do ảnh hưởng của những cơn mưa lớn kéo dài liên tiếp nên nguồn cung rau xanh cho các chợ bắt đầu khan hiếm, giá tăng mạnh, thậm chí nhiều loại giá tăng gần gấp đôi. Khảo sát của người viết tại một số..."
+    }
+  ]
 }
